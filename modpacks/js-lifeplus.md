@@ -3,6 +3,7 @@
 # JS Life+ <a href="/gaming/#/not-aproved" class="hero-info-btn small">Info</a>
 
 [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)
+[![Static Badge](https://img.shields.io/badge/Codeberg-darkblue?logo=codeberg)](https://codeberg.org/jumpstone-gaming)
 [![Static Badge](https://img.shields.io/badge/Website-jumpstone4477.de-green)](https://jumpstone4477.de)
 [![Static Badge](https://img.shields.io/badge/Issues-orange?logo=github)](https://github.com/jumpstone-gaming/issues/issues)
 

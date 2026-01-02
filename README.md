@@ -3,6 +3,7 @@
 # JS Gaming
 
 [<img src="https://img.shields.io/badge/Github-black?logo=github" width="100" height="auto" alt="Badge">](https://github.com/jumpstone-gaming)
+[<img src="https://img.shields.io/badge/Codeberg-darkblue?logo=codeberg" width="125" height="auto" alt="Badge">](https://codeberg.org/jumpstone-gaming)
 [<img src="https://img.shields.io/badge/Issues-orange?logo=github" width="100" height="auto" alt="Badge">](https://github.com/jumpstone-gaming/issues/issues)
 
 [<img src="https://img.shields.io/badge/Modrinth-darkgreen?logo=modrinth" width="125" height="auto" alt="Badge">](https://modrinth.com/organization/jumpstone-gaming)
