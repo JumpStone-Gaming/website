@@ -1,13 +1,13 @@
-/* Custom Docsify Theme - Integrated with HMT Network Design */
+/* Custom Docsify Theme - Modern Orange Design */
 :root {
-  /* Color Variables - Matching HMT Network Green Theme */
+  /* Color Variables - Modern Orange Theme */
   --bg-color: #050505;
   --card-bg: #0f0f0f;
   --border-color: #27272a;
   --text-main: #e4e4e7;
   --text-muted: #a1a1aa;
-  --accent-primary: #10b981; /* Vibrant green */
-  --accent-secondary: #8b5cf6; /* Purple */
+  --accent-primary: #d4af37; /* Gold-like orange */
+  --accent-secondary: #e6c766; /* Lighter gold */
   --font-main: "Inter", sans-serif;
   --font-mono: "JetBrains Mono", monospace;
 
@@ -37,19 +37,19 @@
   --code-theme-text: var(--text-main);
   --code-theme-comment: #6e8090;
   --code-theme-function: #f07178;
-  --code-theme-keyword: #c2e78c;
-  --code-theme-operator: #ffcb6b;
+  --code-theme-keyword: #d4af37;
+  --code-theme-operator: #e6c766;
   --code-theme-punctuation: #89ddff;
-  --code-theme-selector: #ffcb6b;
+  --code-theme-selector: #e6c766;
   --code-theme-tag: #f07178;
-  --code-theme-variable: #ffcb6b;
+  --code-theme-variable: #e6c766;
   --heading-color: #fff;
   --heading-h1-color: var(--accent-primary);
   --heading-h2-color: var(--accent-primary);
   --heading-h3-color: var(--accent-secondary);
   --link-color: var(--accent-primary);
-  --link-color--hover: #059669;
-  --blockquote-background: rgba(16, 185, 129, 0.1);
+  --link-color--hover: #b8962e;
+  --blockquote-background: rgba(212, 175, 55, 0.1);
   --blockquote-border-color: var(--accent-primary);
   --blockquote-color: var(--text-main);
   --table-cell-border-color: var(--border-color);
@@ -63,7 +63,7 @@
   --search-input-color: var(--text-main);
   --search-result-heading-color: var(--accent-primary);
   --search-result-item-color: var(--text-main);
-  --search-result-keyword-background: rgba(16, 185, 129, 0.3);
+  --search-result-keyword-background: rgba(212, 175, 55, 0.3);
   --search-result-keyword-color: var(--text-main);
 }
 
@@ -269,7 +269,7 @@ a:hover {
 }
 
 .markdown-section th {
-  background: rgba(16, 185, 129, 0.1);
+  background: rgba(212, 175, 55, 0.1);
   color: var(--accent-primary);
   font-family: var(--font-mono);
   font-weight: 600;
@@ -355,7 +355,7 @@ a:hover {
 .sidebar-nav li.active > a {
   color: var(--accent-primary);
   border-left: 2px solid var(--accent-primary);
-  background: rgba(16, 185, 129, 0.1);
+  background: rgba(212, 175, 55, 0.1);
   border-radius: 0 4px 4px 0;
 }
 
@@ -390,7 +390,7 @@ a:hover {
 .search input:focus {
   outline: none;
   border-color: var(--accent-primary);
-  box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.2);
+  box-shadow: 0 0 0 3px rgba(212, 175, 55, 0.2);
 }
 
 .search .results-panel {
@@ -438,7 +438,7 @@ a:hover {
   padding: 1.25rem 1.5rem;
   margin: 1.5rem 0;
   border-left: 4px solid var(--accent-primary);
-  background: rgba(16, 185, 129, 0.1);
+  background: rgba(212, 175, 55, 0.1);
 }
 
 .markdown-section .tip::before,
@@ -450,13 +450,13 @@ a:hover {
 }
 
 .markdown-section .warn {
-  border-left: 4px solid #f59e0b;
-  background: rgba(245, 158, 11, 0.1);
+  border-left: 4px solid #d4af37;
+  background: rgba(212, 175, 55, 0.1);
 }
 
 .markdown-section .warn::before {
   content: "⚠";
-  color: #f59e0b;
+  color: #d4af37;
 }
 
 /* Responsive Design */
@@ -531,13 +531,13 @@ a:hover {
 
 /* Selection */
 ::selection {
-  background: rgba(16, 185, 129, 0.3);
+  background: rgba(212, 175, 55, 0.3);
 }
 
 /* Hero Download Button - Large and Prominent */
 .hero-download-btn {
   display: inline-block;
-  background: linear-gradient(135deg, #3b82f6 0%, #1d4ed8 100%);
+  background: linear-gradient(135deg, #d4af37 0%, #b8962e 100%);
   color: white;
   font-family: var(--font-mono);
   font-weight: 700;
@@ -547,7 +547,7 @@ a:hover {
   text-decoration: none;
   border: 3px solid transparent;
   transition: all 0.3s ease;
-  box-shadow: 0 8px 25px rgba(59, 130, 246, 0.4);
+  box-shadow: 0 8px 25px rgba(212, 175, 55, 0.4);
   margin: 1.5rem 0;
   text-align: center;
   min-width: 200px;
@@ -555,8 +555,8 @@ a:hover {
 
 .hero-download-btn:hover {
   transform: translateY(-3px);
-  box-shadow: 0 12px 35px rgba(59, 130, 246, 0.6);
-  background: linear-gradient(135deg, #1d4ed8 0%, #3b82f6 100%);
+  box-shadow: 0 12px 35px rgba(212, 175, 55, 0.6);
+  background: linear-gradient(135deg, #b8962e 0%, #d4af37 100%);
   border-color: white;
   color: white;
 }
@@ -568,7 +568,7 @@ a:hover {
 
 .hero-info-btn {
   display: inline-block;
-  background: linear-gradient(135deg, #f6d43b 0%, #d8811d 100%);
+  background: linear-gradient(135deg, #d4af37 0%, #b8962e 100%);
   color: white;
   font-family: var(--font-mono);
   font-weight: 700;
@@ -578,7 +578,7 @@ a:hover {
   text-decoration: none;
   border: 3px solid transparent;
   transition: all 0.3s ease;
-  box-shadow: 0 8px 25px rgba(246, 143, 59, 0.4);
+  box-shadow: 0 8px 25px rgba(212, 175, 55, 0.4);
   margin: 1.5rem 0;
   text-align: center;
   min-width: 200px;
@@ -586,8 +586,8 @@ a:hover {
 
 .hero-info-btn:hover {
   transform: translateY(-3px);
-  box-shadow: 0 12px 35px rgba(246, 149, 59, 0.6);
-  background: linear-gradient(135deg, #f6d43b 0%, #d8811d 100%);
+  box-shadow: 0 12px 35px rgba(212, 175, 55, 0.6);
+  background: linear-gradient(135deg, #d4af37 0%, #b8962e 100%);
   border-color: white;
   color: white;
 }
@@ -604,12 +604,12 @@ a:hover {
   min-width: auto;
   margin: 0;
   vertical-align: middle;
-  box-shadow: 0 4px 15px rgba(246, 134, 59, 0.3);
+  box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
 }
 
 .hero-info-btn.small:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(246, 212, 59, 0.4);
+  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
 }
 
 /* Small variant for inline placement */
@@ -619,12 +619,12 @@ a:hover {
   min-width: auto;
   margin: 0;
   vertical-align: middle;
-  box-shadow: 0 4px 15px rgba(59, 130, 246, 0.3);
+  box-shadow: 0 4px 15px rgba(212, 175, 55, 0.3);
 }
 
 .hero-download-btn.small:hover {
   transform: translateY(-2px);
-  box-shadow: 0 6px 20px rgba(59, 130, 246, 0.4);
+  box-shadow: 0 6px 20px rgba(212, 175, 55, 0.4);
 }
 
 /* Loading Spinner */
