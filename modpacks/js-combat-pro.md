@@ -1,4 +1,4 @@
-![Logo](https://cdn.modrinth.com/data/Dzmlr2F5/49c33336fe23341cedb7e3f3fc0abe805735d66a_96.webp)
+<img src="../assets/img/projects/js-combat-pro/Logo.png" width="150">
 
 # JS Combat Pro <a href="/gaming/#/not-aproved" class="hero-info-btn small">Info</a>
 
@@ -22,6 +22,28 @@ The pack is designed to comply with the regulations of most major PvP networks. 
 * **Enhanced Visibility:** Featuring mods like **No Fog** and **Fullbright** to ensure you spot opponents instantly, regardless of lighting or weather conditions.
 * **Combat Fluidity:** Small tweaks like **Better Shields** and **Reduced fire overlays** keep your view clear during intense, high-action encounters.
 * **Fair Play:** No gameplay-altering cheats. This pack focuses on optimizing your client’s efficiency and your own skill potential while staying within the vanilla mechanics.
+
+---
+
+## Gallery
+
+<div align="center">
+  <a href="/assets/img/projects/js-combat-pro/Totem.png" target="_blank">
+    <img src="/assets/img/projects/js-combat-pro/Totem.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  </a>
+  <a href="/assets/img/projects/js-combat-pro/Potions.png" target="_blank">
+    <img src="/assets/img/projects/js-combat-pro/Potions.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  </a>
+  <a href="/assets/img/projects/js-combat-pro/Armor.png" target="_blank">
+    <img src="/assets/img/projects/js-combat-pro/Armor.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  </a>
+  <a href="/assets/img/projects/js-combat-pro/Crosshair1.png" target="_blank">
+    <img src="/assets/img/projects/js-combat-pro/Crosshair1.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  </a>
+  <a href="/assets/img/projects/js-combat-pro/Crosshair2.png" target="_blank">
+    <img src="/assets/img/projects/js-combat-pro/Crosshair2.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  </a>
+</div>
 
 ---
 

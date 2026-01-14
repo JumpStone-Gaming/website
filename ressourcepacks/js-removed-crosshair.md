@@ -1,4 +1,4 @@
-![Logo](https://cdn.modrinth.com/data/lbBrGYD8/2d81ccbb23bf095b7bfb10a4a36c799e8155346a_96.webp)
+<img src="../assets/img/projects/js-removed-crosshair/Logo.png" width="150">
 
 # JS Removed Crosshair <a href="https://modrinth.com/resourcepack/js-removed-crosshair" class="hero-download-btn small">Download</a>
 
