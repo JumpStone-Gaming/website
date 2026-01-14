@@ -1,4 +1,4 @@
-<img src="../assets/img/projects/js-lifeplus/Logo.png" width="150">
+<img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Logo.png" width="150">
 
 # JS Life+ <a href="/gaming/#/not-aproved" class="hero-info-btn small">Info</a>
 
@@ -27,20 +27,20 @@ This modpack may be restricted on some public servers due to mods like MouseTwea
 ## Gallery
 
 <div align="center">
-  <a href="/assets/img/projects/js-lifeplus/Map.png" target="_blank">
-    <img src="/assets/img/projects/js-lifeplus/Map.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Map.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Map.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-lifeplus/Freecam.png" target="_blank">
-    <img src="/assets/img/projects/js-lifeplus/Freecam.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Freecam.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Freecam.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-lifeplus/Tweaks.png" target="_blank">
-    <img src="/assets/img/projects/js-lifeplus/Tweaks.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Tweaks.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Tweaks.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-lifeplus/Shader.png" target="_blank">
-    <img src="/assets/img/projects/js-lifeplus/Shader.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Shader.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Shader.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-lifeplus/Connected-textures.png" target="_blank">
-    <img src="/assets/img/projects/js-lifeplus/Connected-textures.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Connected-textures.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-lifeplus/Connected-textures.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
 </div>
 

@@ -1,4 +1,4 @@
-<img src="../assets/img/projects/js-green-ore/Logo.png" width="150">
+<img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-green-ore/Logo.png" width="150">
 
 # JS Green Ore
 
@@ -17,10 +17,10 @@ A simple texture pack that turns the ore Block you wish completely green. No oth
 ## Gallery
 
 <div align="center">
-  <a href="/assets/img/projects/js-green-ore/Before.png" target="_blank">
-    <img src="/assets/img/projects/js-green-ore/Before.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-green-ore/Before.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-green-ore/Before.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-green-ore/After.png" target="_blank">
-    <img src="/assets/img/projects/js-green-ore/After.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-green-ore/After.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-green-ore/After.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
 </div>

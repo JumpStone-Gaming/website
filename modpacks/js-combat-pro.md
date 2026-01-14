@@ -1,4 +1,4 @@
-<img src="../assets/img/projects/js-combat-pro/Logo.png" width="150">
+<img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Logo.png" width="150">
 
 # JS Combat Pro <a href="/gaming/#/not-aproved" class="hero-info-btn small">Info</a>
 
@@ -28,20 +28,20 @@ The pack is designed to comply with the regulations of most major PvP networks. 
 ## Gallery
 
 <div align="center">
-  <a href="/assets/img/projects/js-combat-pro/Totem.png" target="_blank">
-    <img src="/assets/img/projects/js-combat-pro/Totem.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Totem.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Totem.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-combat-pro/Potions.png" target="_blank">
-    <img src="/assets/img/projects/js-combat-pro/Potions.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Potions.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Potions.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-combat-pro/Armor.png" target="_blank">
-    <img src="/assets/img/projects/js-combat-pro/Armor.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Armor.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Armor.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-combat-pro/Crosshair1.png" target="_blank">
-    <img src="/assets/img/projects/js-combat-pro/Crosshair1.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Crosshair1.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Crosshair1.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
-  <a href="/assets/img/projects/js-combat-pro/Crosshair2.png" target="_blank">
-    <img src="/assets/img/projects/js-combat-pro/Crosshair2.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
+  <a href="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Crosshair2.png" target="_blank">
+    <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Crosshair2.png" width="30%" height="180" style="object-fit: cover; border-radius: 8px; margin: 5px;">
   </a>
 </div>
 
