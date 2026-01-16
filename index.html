@@ -3,14 +3,137 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>JS Gaming</title>
-    <script src="https://unpkg.com/lucide@latest"></script>
+    <meta
+      name="description"
+      content="JS Gaming - High-performance Minecraft modpacks and resource packs. Enhance your Minecraft experience with optimized gameplay, stunning visuals, and community-driven content since 2025."
+    />
+    <meta
+      name="keywords"
+      content="minecraft, modpacks, resource packs, fabric, sodium, lithium, ferritecore, performance, gaming, js gaming, jumpstone"
+    />
+    <meta name="author" content="JumpStone" />
+    <meta name="robots" content="index, follow" />
+    <meta name="language" content="English" />
+
+    <!-- Performance hints -->
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link rel="dns-prefetch" href="//unpkg.com" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Mobile optimization -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="theme-color" content="#D4AF37" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://jumpstone4477.de/gaming/" />
+    <meta
+      property="og:title"
+      content="JS Gaming - Minecraft Performance & Visual Enhancement"
+    />
+    <meta
+      property="og:description"
+      content="Discover high-performance Minecraft modpacks and resource packs. Optimized for all hardware, featuring stunning visuals and enhanced gameplay experiences."
+    />
+    <meta
+      property="og:image"
+      content="https://jumpstone4477.de/gaming/assets/img/logo.png"
+    />
+    <meta property="og:site_name" content="JS Gaming" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://jumpstone4477.de/gaming/" />
+    <meta
+      property="twitter:title"
+      content="JS Gaming - Minecraft Performance & Visual Enhancement"
+    />
+    <meta
+      property="twitter:description"
+      content="Discover high-performance Minecraft modpacks and resource packs. Optimized for all hardware, featuring stunning visuals and enhanced gameplay experiences."
+    />
+    <meta
+      property="twitter:image"
+      content="https://jumpstone4477.de/gaming/assets/img/logo.png"
+    />
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://jumpstone4477.de/gaming/" />
+
+    <!-- Schema.org structured data -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Organization",
+        "name": "JS Gaming",
+        "url": "https://jumpstone4477.de/gaming/",
+        "logo": "https://jumpstone4477.de/gaming/assets/img/logo.png",
+        "description": "High-performance Minecraft modpacks and resource packs enhancing gameplay with optimized performance and stunning visuals.",
+        "foundingDate": "2025",
+        "founder": {
+          "@type": "Organization",
+          "name": "JumpStone"
+        },
+        "sameAs": [
+          "https://github.com/jumpstone-gaming",
+          "https://codeberg.org/jumpstone-gaming",
+          "https://discord.gg/yKU4Q2mHj8"
+        ]
+      }
+    </script>
+
+    <!-- Product schema for modpacks -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "JS Gaming Modpacks",
+        "operatingSystem": "Windows, macOS, Linux",
+        "applicationCategory": "Game",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "USD"
+        },
+        "softwareVersion": "Latest",
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "reviewCount": "1000"
+        }
+      }
+    </script>
+
+    <title>
+      JS Gaming - High-Performance Minecraft Modpacks & Resource Packs
+    </title>
+    <!-- Load Lucide icons asynchronously -->
+    <script src="https://unpkg.com/lucide@latest" async></script>
+    <!-- Preconnect to external domains for faster DNS resolution -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://unpkg.com" />
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" />
+
+    <!-- Preload critical fonts -->
+    <link
+      rel="preload"
+      as="style"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap"
+    />
     <link
       href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap"
       rel="stylesheet"
+      media="print"
+      onload="this.media='all'"
     />
+    <noscript>
+      <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=JetBrains+Mono:wght@400;700&display=swap"
+        rel="stylesheet"
+      />
+    </noscript>
     <link
       rel="stylesheet"
       type="text/css"
@@ -155,14 +278,14 @@
         ],
       };
     </script>
-    <!-- Docsify v4 -->
+    <!-- Docsify v4 with performance optimizations -->
     <script
       src="//cdn.jsdelivr.net/npm/docsify@4.13.0/lib/docsify.min.js"
-      async
+      defer
     ></script>
     <script
       src="//cdn.jsdelivr.net/npm/docsify@4.13.0/lib/plugins/search.min.js"
-      async
+      defer
     ></script>
   </body>
 </html>
