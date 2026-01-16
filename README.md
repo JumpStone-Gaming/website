@@ -12,6 +12,7 @@
 
 **JS Gaming** is a project by **JumpStone**, dedicated to enhancing the Minecraft experience. We specialize in developing high-quality resource packs, optimized modpacks, and custom gameplay enhancements. Discover our [collection](_sidebar.md) of performance-driven tools and creative assets designed to take your game to the next level.
 
+### [About](https://www.jumpstone4477.de/gaming/about.html)
 ### [Table of contents](_sidebar.md)
 
 ---
