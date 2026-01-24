@@ -1,6 +1,6 @@
 <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-performance-core/Logo.png" width="150">
 
-# JS Performance Core <a href="/gaming/#/not-aproved" class="hero-info-btn small">Info</a>
+# JS Performance Core <a href="https://modrinth.com/modpack/js-performance-core" class="hero-download-btn small">Download</a>
 
 [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)
 [![Static Badge](https://img.shields.io/badge/Codeberg-darkblue?logo=codeberg)](https://codeberg.org/jumpstone-gaming)
