@@ -1,6 +1,8 @@
 <img src="https://www.jumpstone4477.de/gaming/assets/img/projects/js-combat-pro/Logo.png" width="150">
 
-# JS Combat Pro <a href="/gaming/#/not-aproved" class="hero-info-btn small">Info</a>
+# JS Combat Pro
+
+<a href="https://modrinth.com/modpack/js-combat-pro" class="hero-download-btn small">Download</a>
 
 [![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/jumpstone-gaming)
 [![Static Badge](https://img.shields.io/badge/Codeberg-darkblue?logo=codeberg)](https://codeberg.org/jumpstone-gaming)
